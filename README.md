@@ -56,7 +56,7 @@ Como a impressora Epson L4260, não é compatível com o Linux, iremos usar o wi
 - Instale o Nginx em `C:\nginx`
 - Instale a biblioteca do Visual Studio
 - Altere as configurações do php.ini
-- Altere as configurações do nginx.cong
+- Altere as configurações do nginx.conf e desative o `access_log` e o `error_log`.
 - Rode o comando para iniciar o PHP `php-cgi.exe -b 127.0.0.1:9000`
 - Rode o comando para iniciar o Nginx 
 - Abra o Chrome em `127.0.0.1`
