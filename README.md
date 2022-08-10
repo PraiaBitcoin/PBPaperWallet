@@ -8,6 +8,9 @@ Com uma programação simples, facilmente verificável e um processo de produç�
 
 Junto com instruções de uso e informações essenciais para o usuário importar a carteira, é possível fazer a integração de novos usuários de Bitcoin em minutos. 
 
+Você pode o script em funcionamento aqui:
+[https://praiabitcoin.org/paperwallet/](https://praiabitcoin.org/paperwallet/)
+
 ## Breve Descrição de como fazemos
 
 Em um computador offline, utilizando o HTML do [Bip39](https://iancoleman.io/bip39/#portuguese) criado por Ian Coleman, [release 0.5.4](https://github.com/iancoleman/bip39/releases), são geradas as palavras semente (Bip39 Mnemonic) em português e a partir delas, são mostradas a chave publica estendida (zpub) e o endereço da derivação m84/0/0/0/0.
