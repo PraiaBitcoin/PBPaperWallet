@@ -1,5 +1,5 @@
 <?php
-//Praia Bitcoin Paper Wallet v0.1
+//Praia Bitcoin Paper Wallet Web Version v0.1
 //Author: Fernando Motolese
 //ini_set('display_errors', 1);
 
@@ -155,7 +155,7 @@ margin:0px;
 
 
 <div style="border: 0px solid #999; margin-top:-19px" >
-    <div style="border:0px; margin-left:34px; height: 525px; background-image: url('img/fundo3.jpg'); background-repeat: no-repeat;  background-size: contain;  width: 1516px; position:relative"  >
+    <div style="border:0px; margin-left:34px; height: 525px; background-image: url('img/fundo_teste.jpg'); background-repeat: no-repeat;  background-size: contain;  width: 1516px; position:relative"  >
         <!--Ballance-->
         <img src="img/saldo_1000.png" style="top:160px; left:80px; position:absolute; width:350x; height: 159px">
  
