@@ -1,0 +1,9 @@
+version: "3.6"
+
+services:
+  # 
+  PBPaperWallet:
+   container_name: PBPaperWallet
+   build: .
+   ports:
+     - 80:80
