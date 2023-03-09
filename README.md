@@ -8,8 +8,6 @@ Com uma programação simples, facilmente verificável e um processo de produç�
 
 Junto com instruções de uso e informações essenciais para o usuário importar a carteira, é possível fazer a integração de novos usuários de Bitcoin em minutos. 
 
-Você pode o script em funcionamento aqui:
-[https://praiabitcoin.org/paperwallet/](https://praiabitcoin.org/paperwallet/)
 
 ## Breve Descrição de como fazemos
 
